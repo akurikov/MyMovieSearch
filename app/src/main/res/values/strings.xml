@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">MyMovieSearch</string>
+    <string name="app_name">My Movie Search</string>
+    <string name="title1">Фильм 1</string>
+    <string name="title2">Фильм 2</string>
+    <string name="title3">Фильм 3</string>
+    <string name="details">Детали</string>
+    <string name="invite">Пригласить друга</string>
+    <string name="like">Нравится</string>
+    <string name="comment_hint">Введите здесь свой комментарий</string>
+
+    <string name="title">Наименование фильма</string>
+    <string name="decription">Здесь будет описание фильма</string>
+    <string name="decription1">Здесь будет описание первого фильма</string>
+    <string name="decription2">Здесь будет описание второго фильма</string>
+    <string name="decription3">Здесь будет описание третьего фильма</string>
+
+    <string name="chooser_title">Выбор</string>
+
 </resources>
